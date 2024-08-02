@@ -11,6 +11,6 @@ By capturing images of the chessboard, we obtain the camera's intrinsic and extr
 
 ### Output
 
-<img src="https://github.com/user-attachments/assets/70277af8-4313-40d2-8a4d-bd158abe1d81" width="100%">
+<img src="https://github.com/user-attachments/assets/70277af8-4313-40d2-8a4d-bd158abe1d81" width="45%">
 
 
